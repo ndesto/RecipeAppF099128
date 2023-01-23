@@ -9,9 +9,8 @@
 
     <EditText
         android:id="@+id/input_name"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="150dp"
         android:ems="10"
         android:hint="Recipe Name"
         android:inputType="textPersonName"
@@ -21,7 +20,7 @@
 
     <EditText
         android:id="@+id/input_description"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:ems="10"
